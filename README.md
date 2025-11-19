@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there! ✨
+[Carrd](https://noxeorn.carrd.co/) | [Bluesky](https://bsky.app/profile/noxeorn.bsky.social) | noxschatten@gmail.com
 
-<!--
-**Noxeorn/Noxeorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can call me Nox :) He/him or they/them.
 
-Here are some ideas to get you started:
+I'm 28 y.o digital artist who codes sometimes! (actually, my degree is closer to coding than to art haha)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and tools**:
+- HTML & CSS
+- Python
+- VS code
+
+**Projects I worked on**
+- [Silly fake restaurant page for AVTP site](https://github.com/A-Very-Tall-Problem/avtp-website)
+- [Olive Tree Studios site, here and there](https://github.com/olivetreestudiosllc/olive-tree-studios-website)
